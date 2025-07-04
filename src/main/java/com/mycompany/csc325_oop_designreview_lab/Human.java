@@ -39,4 +39,5 @@ public abstract class Human {
 	public void setAge(short age) {
 		this.age = age;
 	}
+
 }

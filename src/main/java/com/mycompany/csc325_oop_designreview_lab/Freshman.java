@@ -29,3 +29,4 @@ public class Freshman extends Student {
                 ", Address='" + getAddress() + "'}";
     }
 }
+
